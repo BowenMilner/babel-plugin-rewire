@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/speedskater/babel-plugin-rewire.git"
+    "url": "git+https://github.com/speedskater/babel-plugin-rewire.git"
   },
   "bugs": {
     "url": "https://github.com/speedskater/babel-plugin-rewire/issues"
